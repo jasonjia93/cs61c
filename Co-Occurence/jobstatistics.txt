@@ -1,0 +1,65 @@
+5 large clusters
+
+(freedom, 0)
+	Total time: 12mins, 49 seconds + 27 seconds
+	Number of Mappers:
+		job1: 80
+		job2: 32
+	Number of Reducers:
+		job1: 32
+		job2: 1
+	Size of Input: 5,112,868,935 bytes
+
+(freedom, 0) combiner on
+	Total time: 5mins, 49 seconds + 31 seconds
+	Number of Mappers:
+		job1: 80
+		job2: 32
+	Number of Reducers:
+		job1: 32
+		job2: 1
+	Size of Input: 5,112,864,932 bytes
+
+(capital, 0) combiner on - 2006 data
+	Total time: 18 mins, 3 secs + 30 secs
+	Number of Mappers:
+		job1: 316
+		job2: 32
+	Number of Reducers:
+		job1: 32
+		job2: 1
+	Size of Input: 19,139,821,784
+	
+
+9 large clusters
+
+(capital, 0)
+	Total time: 10 mins, 49 secs + 29 secs
+	Number of Mappers:
+		job1: 316
+		job2: 32
+	Number of Reducers:
+		job1: 32
+		job2: 1
+	Size of Input: 19,139,817,976
+
+(landmark, 1)
+	Total time: 11 mins, 4 secs + 27 secs
+	Number of Mappers:
+		job1: 316
+		job2: 32
+	Number of Reducers:
+		job1: 32
+		job2: 1
+	Size of Input: 19,139,812,233
+
+(momument, 2)
+	Total time: 10 mins, 54 secs + 27 secs
+	Number of Mappers:
+		job1: 316
+		job2: 32
+	Number of Reducers:
+		job1: 32
+		job2: 1
+	Size of Input: 19,139,827,990
+	
